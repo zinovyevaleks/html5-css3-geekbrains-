@@ -1,0 +1,14 @@
+@keyframes anima {
+  from {opacity: 0;}
+}
+
+@keyframes anima2 {
+	from {background-color: red;}
+	to {background-color: #5f6a72;}
+}
+
+@keyframes anima3 {
+	from {background-color: yellow;}
+	to {background-color: #5f6a72;}
+}
+
